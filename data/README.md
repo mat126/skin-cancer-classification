@@ -32,7 +32,7 @@ data/
 ├── train-metadata.csv
 ├── test-metadata.csv
 └── sample_submission.csv
-
+```
 ## 📄 Variable Dictionary
 
 A detailed description of all variables in the metadata files (e.g., `train-metadata.csv`) is available here:  
