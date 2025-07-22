@@ -20,4 +20,4 @@ Due to size limitations, raw images are not included in this repository. You can
 - Matplotlib, Seaborn
 
 ## ✍️ Author
-Matteo — [GitHub](https://github.com/mat126)
+Matteo Morella — [GitHub](https://github.com/mat126)
