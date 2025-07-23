@@ -7,7 +7,7 @@ This project focuses on the classification of skin lesions using deep learning t
 
 ## 📁 Dataset
 The dataset comes from [Kaggle]([https://www.kaggle.com/competitions/isic-2024-challenge]).  
-Due to size limitations, raw images are not included in this repository. You can download them following the instructions in `data/README.md`.
+Due to size limitations, raw images are not included in this repository. You can download them following the instructions in [data/README.md](./data/README.md).
 
 ## 📌 Goals
 - Perform EDA and preprocessing of dermatoscopic images and clinical metadata
@@ -20,4 +20,4 @@ Due to size limitations, raw images are not included in this repository. You can
 - Matplotlib, Seaborn
 
 ## ✍️ Author
-Matteo — [GitHub](https://github.com/mat126)
+Matteo Morella — [GitHub](https://github.com/mat126)
