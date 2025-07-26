@@ -4,7 +4,10 @@ This folder contains the scientific references and related documentation used th
 
 ## 🔍 Contents
 
-- `bibliografia.bib`: BibTeX-formatted bibliography used for academic referencing in LaTeX documents (e.g., thesis, papers).
+- `bibliography.bib`: BibTeX-formatted bibliography used for academic referencing in LaTeX documents (e.g., thesis, papers).
+- `bibliography.md`: references formatted in Markdown for easy consultation
+
+
 
 ## 🧾 Description
 
