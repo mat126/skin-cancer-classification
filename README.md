@@ -64,4 +64,4 @@ skin-cancer-classification/
 **Matteo Morella**  
 📧 Email: mmorella9@gmail.com  
 🐙 GitHub: [@mat126](https://github.com/mat126)  
-📄 CV: [Download CV - PDF](https://raw.githubusercontent.com/mat126/mat126/main/Cv_Matte_Morella.pdf)
+📄 CV: [Download CV - PDF](https://raw.githubusercontent.com/mat126/mat126/main/Cv_Matteo_Morella.pdf)
