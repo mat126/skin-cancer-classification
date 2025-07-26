@@ -28,6 +28,14 @@ Each script is structured to ensure modularity, reproducibility, and integration
   - Performs `GridSearchCV` over key hyperparameters
   - Returns fitted model and predictions on test data
 
+-  **`eda_utils.py`**
+Includes reusable functions for **Exploratory Data Analysis**, such as:
+- `plot_target_distribution()`, `plot_numeric_distributions()`
+- Dimensionality reduction with `PCA`, `t-SNE`, and `UMAP`
+- Visualization of 2D projections with class coloring
+
+---
+
 ---
 
 ## 🚧 Work in Progress
