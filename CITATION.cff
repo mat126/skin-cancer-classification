@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Skin Cancer Classification (ISIC 2024)"
+authors:
+  - family-names: Morella
+    given-names: Matteo
+repository-code: "https://github.com/mat126/skin-cancer-classification"
+license: MIT
+keywords: [dermatology, deep-learning, cnn, stacking, isic, melanoma]
