@@ -1,0 +1,41 @@
+# Data & artifacts (kept out of Git)
+data/
+!data/README.md
+
+models/
+!models/README.md
+*.pkl
+*.h5
+*.keras
+
+outputs/
+!outputs/README.md
+!outputs/metrics/
+!outputs/metrics/*.json
+!outputs/metrics/*.csv
+!outputs/figures/
+!outputs/figures/*.png
+
+# Notebooks
+*.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Envs & secrets
+.env
+.envrc
+venv/
+.venv/
+
+# Logs
+*.log
+*.tfevents.*
+
+# Editors & OS
+.vscode/
+.DS_Store
+Thumbs.db
